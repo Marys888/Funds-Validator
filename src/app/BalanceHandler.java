@@ -2,7 +2,7 @@ package app;
 
 public class BalanceHandler {
     private double initialBalance;
-    public Balance(double initialBalance){
+    public BalanceHandler(double initialBalance){
         this.initialBalance = initialBalance;
     }
 
